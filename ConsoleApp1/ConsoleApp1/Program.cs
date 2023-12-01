@@ -5,11 +5,10 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World! ");
+
+            Console.WriteLine("Hello, World! ");
         }
-        static void PrintHello()
-        {
-            Console.WriteLine("Hello");
-        }
-        
+
+
     }
 }
